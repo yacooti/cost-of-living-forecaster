@@ -69,4 +69,5 @@ curl -X POST "http://127.0.0.1:8000/predict?year=2025&area=Westlands"
 
 ---
 
-## **🚀 Next Steps: Docker Deployment (Coming Soon!)**
+## **🚀 Next Steps: Deployment To The Cloud**
+[Cost of Living Forecaster Deployment Guide](https://github.com/yacooti/cost-of-living-forecaster-for-deployment)
